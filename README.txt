@@ -1,0 +1,33 @@
+运行插件前提条件如下：
+
+1  在每个手机，app都要自己下载和安装好  
+
+2 微信安装和登录好  
+
+3 每个手机都必须要有一个不同的微信号 
+
+4 最好每个手机里都有一个sim卡  
+
+
+
+apk 下载链接
+
+http://173.82.115.234/shuabaoduanshipin.apk
+
+http://173.82.115.234/kuaikandian.apk
+
+http://173.82.115.234/guangyingxinwen.apk
+
+http://173.82.115.234/zhongqingkandian.apk
+
+http://173.82.115.234/huashengtoutiao.apk
+
+http://173.82.115.234/jukandian.apk
+
+http://173.82.115.234/qukankan.apk
+
+http://173.82.115.234/xiangkan.apk
+
+http://173.82.115.234/taotoutiao.apk
+
+http://173.82.115.234/mayitoutiao.apk
